@@ -1,0 +1,5 @@
+{
+    "apiType":1,
+    "appKey":"9fa5245253f742e50e705f65b9b02d66",
+    "secretKey":"3918c61450ab7aaa62760036f03eb947"
+}

@@ -1,0 +1,305 @@
+[
+    {
+		"Id":1,
+		"ProductName":"Herbal Mixture",
+		"Description":"Restores 50 HP.",
+		"Shards":5,
+		"Category":1,
+		"IsSale":false,
+		"ImgIndex":0,
+		"Type":1
+    },
+    {
+		"Id":2,
+		"ProductName":"Potion of Life",
+		"Description":"Restores 100 HP.",
+		"Shards":10,
+		"Category":1,
+		"IsSale":false,
+		"ImgIndex":1,
+		"Type":1
+    },
+    {
+        "Id":3,
+		"ProductName":"Azaroth’s Blood",
+		"Description":"Restores 150 HP.",
+		"Shards":15,
+		"Category":1,
+		"IsSale":false,
+		"ImgIndex":2,
+		"Type":1
+    },
+    {
+		"Id":4,
+		"ProductName":"Cleansing Water",
+		"Description":"Restores 50 MP.",
+		"Price":5,
+		"Shards":5,
+		"Category":1,
+		"IsSale":true,
+		"ImgIndex":3,
+		"Type":2
+    },
+    {
+		"Id":5,
+		"ProductName":"Spiritual Essence",
+		"Description":"Restores 100 MP.",
+		"Price":10,
+		"Shards":10,
+		"Category":1,
+		"IsSale":false,
+		"ImgIndex":4,
+		"Type":2
+    },
+    {
+        "Id":6,
+		"ProductName":"Athenea's Tears",
+		"Description":"Restores 150 MP.",
+		"Price":15,
+		"Shards":15,
+		"Category":1,
+		"IsSale":true,
+		"ImgIndex":0,
+		"Type":2
+    },
+     {
+		"Id":7,
+		"ProductName":"Entheoserum",
+		"Description":"Summon one spirit animal to fight alongside you.(Spirit animal has limited HP).",
+		"Shards":19,
+		"Category":1,
+		"IsSale":false,
+		"ImgIndex":1,
+		"Type":3
+    },
+    {
+		"Id":8,
+		"ProductName":"Earth Scroll",
+		"Description":"Unleash the powers of the earth. (Effect lasts for 60 seconds).",
+		"Shards":19,
+		"Category":1,
+		"IsSale":false,
+		"ImgIndex":2,
+		"Type":3
+    },
+    {
+        "Id":9,
+		"ProductName":"The Potion of Berserk",
+		"Description":"Whoever drinks this potion shall be twice as strong. (Effect lasts for 60 seconds).",
+		"Shards":29,
+		"Category":1,
+		"IsSale":false,
+		"ImgIndex":3,
+		"Type":3
+    },
+    {
+        "Id":10,
+		"ProductName":"Fuzy Booze",
+		"Description":"Tonic mixed by orcish brewmasters (Random effect lasts for 60 seconds).",
+		"Shards":29,
+		"Category":1,
+		"IsSale":false,
+		"ImgIndex":4,
+		"Type":3
+    },
+    {
+        "Id":11,
+		"ProductName":"Nocturne of the Night",
+		"Description":"Summon an army of the dead (Reanimates up to 4 corpses to fight for you, lasts for 20 seconds).",
+		"Shards":49,
+		"Category":1,
+		"IsSale":true,
+		"ImgIndex":0,
+		"Type":3
+    },
+    {
+        "Id":12,
+		"ProductName":"Monochimaera Fire Scroll",
+		"Description":"Summon the fire-breathing monochimaera. (Lasts 60 seconds).",
+		"Shards":49,
+		"Category":1,
+		"IsSale":false,
+		"ImgIndex":1,
+		"Type":3
+    },
+    {
+		"Id":13,
+		"ProductName":"Astra Spear",
+		"Description":"The spear lets you pierce your enemies without spilling blood. ATK +30",
+		"Shards":99,
+		"Category":2,
+		"IsSale":true,
+		"ImgIndex":2,
+		"Type":4
+    },
+    {
+		"Id":14,
+		"ProductName":"Cyprian's Staff",
+		"Description":"Add black magic to your spells. MAG ATK +35",
+		"Shards":129,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":3,
+		"Type":4
+    },
+    {
+        "Id":15,
+		"ProductName":"Demon Blade",
+		"Description":"Slice your enemies, demon or non-demon, effortlessly. ATK +40",
+		"Shards":129,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":4,
+		"Type":4
+    },
+    {
+        "Id":16,
+		"ProductName":"Tyfon's Harp",
+		"Description":"Tyfon's Harp lets you summon the destructive powers of the wind. (Effeect lasts for 90 seconds). MAG ATK +40",
+		"Shards":149,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":0,
+		"Type":4
+    },
+    {
+        "Id":17,
+		"ProductName":"Volg's Sword",
+		"Description":"The Volg's Sword was found in the ruins of the ancient Volg people whose kingdom crashed from the skies. ATK +60",
+		"Shards":249,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":1,
+		"Type":4
+    },
+    {
+        "Id":18,
+		"ProductName":"Riftborne Axe",
+		"Description":"Living weapon summoned from the demon rift. ATK + 40, MAG ATK + 20",
+		"Shards":249,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":2,
+		"Type":4
+    },
+    {
+		"Id":19,
+		"ProductName":"Athenea's Gauntlet (Light)",
+		"Description":"The magical gauntlet of Athenea improves the ability of the wearer to use alchemy and sorcery on enemies. DEF +25",
+		"Shards":49,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":3,
+		"Type":5
+    },
+    {
+		"Id":20,
+		"ProductName":"Athenea’s Crown (Light)",
+		"Description":"This crown protects its wearer with Athenea’s wisdom. (Gain insight of enemies’ stats). DEF +30",
+		"Shards":99,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":4,
+		"Type":5
+    },
+    {
+        "Id":21,
+		"ProductName":"Athenea’s Robe (Light)",
+		"Description":"Athenea’s Cuirass is light and sturdy for swift combat. DEF +40",
+		"Shards":149,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":0,
+		"Type":5
+    },
+    {
+        "Id":22,
+		"ProductName":"Azaroth’s Greaves (Heavy)",
+		"Description":"The greaves worn by Azaroth were forged by dwarves to keep him from being vulnerable to low attacks. DEF +25",
+		"Shards":49,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":1,
+		"Type":5
+    },
+    {
+        "Id":23,
+		"ProductName":"Azaroth’s Barbute (Heavy)",
+		"Description":"Azaroth’s Barbute can withstand blows from blunt weapons and protect the head of its wearer. DEF +30",
+		"Shards":99,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":2,
+		"Type":5
+    },
+    {
+        "Id":24,
+		"ProductName":"Azaroth’s Armor (Heavy)",
+		"Description":"This armor was worn by Azaroth, The Great Tiger. DEF +40",
+		"Shards":149,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":3,
+		"Type":5
+    },
+    {
+    	"Id":25,
+		"ProductName":"Cloak of Darkness",
+		"Description":"The wearer of this cloak is protected by the goddess of darkness. (Invisibility can be triggered for 20 seconds; magic will recharge until it can be used again). DEF +15",
+		"Shards":149,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":4,
+		"Type":6
+    },
+    {
+    	"Id":26,
+		"ProductName":"Felicity Ring",
+		"Description":"The Ring of Felicity is said to bring luck to whoever wears it. LUCK +20",
+		"Shards":149,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":0,
+		"Type":6
+    },
+    {
+    	"Id":27,
+		"ProductName":"Impossible Sandclock",
+		"Description":"A sandclock that contains the fragments of time. (Triggers haste / slow, effect lasts 60 seconds)",
+		"Shards":199,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":1,
+		"Type":6
+    },
+    {
+    	"Id":28,
+		"ProductName":"Storm Locket",
+		"Description":"A gift from the drowned ones. (Inflicts poison to wearer) ATK + 60",
+		"Shards":249,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":2,
+		"Type":6
+    },
+    {
+    	"Id":29,
+		"ProductName":"The Eye of Horus",
+		"Description":"Lifts the fog of war for 60 seconds.",
+		"Shards":499,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":3,
+		"Type":6
+    },
+    {
+    	"Id":30,
+		"ProductName":"Aegis of the Elders",
+		"Description":"This magical shield, found in the tombs of the Elders, will reduce the damage inflicted on its wearer by 50%.",
+		"Shards":499,
+		"Category":2,
+		"IsSale":false,
+		"ImgIndex":4,
+		"Type":6
+    }
+]

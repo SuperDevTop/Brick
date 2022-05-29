@@ -1,0 +1,20 @@
+[
+    {
+		"Id":30,
+		"ShardValue":50,
+		"BonusValue":0,
+		"Price":0.99,
+    },
+    {
+		"Id":31,
+		"ShardValue":150,
+		"BonusValue":20,
+		"Price":2.99,
+    },
+    {
+        "Id":32,
+		"ShardValue":500,
+		"BonusValue":50,
+		"Price":9.99,
+    }
+]

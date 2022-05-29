@@ -1,0 +1,4 @@
+For more information about license, please refer to below links:
+
+- WebView : https://github.com/gree/unity-webview
+- SimpleJSON : http://wiki.unity3d.com/index.php/SimpleJSON
